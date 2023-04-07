@@ -38,6 +38,6 @@ const randomIndex = Math.floor(Math.random() * 6);
 
   return {
     ...selectUser,
-    ImageUrl: `Img/imagesCats/img${randomIndex}.jpg`,
+    ImageUrl: `img/imagesCats/img${randomIndex}.jpg`,
   };
 };
