@@ -1,7 +1,6 @@
 import fs from 'fs/promises';
 import { User } from '../types/User';
 import path from 'path';
-import { Request, Response } from 'express';
 
 const ALL_USERS_PATH = path.resolve('src', 'data', 'user.json');
 
@@ -22,7 +21,7 @@ export const getAllUsers = async () => {
   return users;
 };
 
-export const getSingleByIdWithRandomImg = async (req: Request, userId: string) => {
+export const getSingleByIdWithRandomImg = async (userId: string) => {
   const users = await read(ALL_USERS_PATH);
 
   if (!users?.length) {
@@ -36,11 +35,9 @@ export const getSingleByIdWithRandomImg = async (req: Request, userId: string) =
 }
 
 const randomIndex = Math.floor(Math.random() * 6);
-const imagePath = path.join(__dirname, 'public', 'img', 'imageCats', `img${randomIndex}.jpg`);
-const imageUrl = `${req.protocol}://${req.get('host')}/${path.relative(__dirname, imagePath)}`;
 
   return {
     ...selectUser,
-    ImageUrl: imageUrl
+    ImageUrl: `Img/imageCats/img${randomIndex}.jpg`,
   };
 };
