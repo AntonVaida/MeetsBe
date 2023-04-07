@@ -2,7 +2,7 @@
 {
     "userId": 1, 
     "name": "Leanne Graham",
-    "ImageUrl": "Img/imageMembers/user1.jpg",
+    "ImageUrl": "Img/imagesMembers/user1.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
@@ -10,7 +10,7 @@
 {
     "userId": 2, 
     "name": "Ervin Howell",
-    "ImageUrl": "Img/imageMembers/user2.jpg",
+    "ImageUrl": "Img/imagesMembers/user2.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
@@ -18,7 +18,7 @@
 {
     "userId": 3, 
     "name": "Clementine Bauch",
-    "ImageUrl": "Img/imageMembers/user3.jpg",
+    "ImageUrl": "Img/imagesMembers/user3.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
@@ -26,7 +26,7 @@
 {
     "userId": 4, 
     "name": "Patricia Lebsack",
-    "ImageUrl": "Img/imageMembers/user4.jpg",
+    "ImageUrl": "Img/imagesMembers/user4.jpg",
     "camera": true,
     "speaking": true,
     "microphone": true
@@ -34,7 +34,7 @@
 {
     "userId": 5, 
     "name": "Chelsey Dietrich",
-    "ImageUrl": "Img/imageMembers/user5.jpg",
+    "ImageUrl": "Img/imagesMembers/user5.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
@@ -42,7 +42,7 @@
 {
     "userId": 6, 
     "name": "Mrs. Dennis Schulist",
-    "ImageUrl": "Img/imageMembers/user6.jpg",
+    "ImageUrl": "Img/imagesMembers/user6.jpg",
     "camera": false,
     "speaking": false,
     "microphone": false
@@ -50,7 +50,7 @@
 {
     "userId": 7, 
     "name": "Kurtis Weissnat",
-    "ImageUrl": "Img/imageMembers/user7.jpg",
+    "ImageUrl": "Img/imagesMembers/user7.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
@@ -58,7 +58,7 @@
 {
     "userId": 8, 
     "name": "Nicholas Runolfsdottir V",
-    "ImageUrl": "Img/imageMembers/user8.jpg",
+    "ImageUrl": "Img/imagesMembers/user8.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
@@ -66,7 +66,7 @@
 {
     "userId": 9, 
     "name": "Glenna Reichert",
-    "ImageUrl": "Img/imageMembers/user9.jpg",
+    "ImageUrl": "Img/imagesMembers/user9.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
@@ -74,7 +74,7 @@
 {
     "userId": 10, 
     "name": "Clementina DuBuque",
-    "ImageUrl": "Img/imageMembers/user10.jpg",
+    "ImageUrl": "Img/imagesMembers/user10.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
@@ -82,7 +82,7 @@
 {
     "userId": 11, 
     "name": "Carmen_Keeling",
-    "ImageUrl": "Img/imageMembers/user11.jpg",
+    "ImageUrl": "Img/imagesMembers/user11.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
@@ -90,7 +90,7 @@
 {
     "userId": 12, 
     "name": "Veronica_Goodwin",
-    "ImageUrl": "Img/imageMembers/user12.jpg",
+    "ImageUrl": "Img/imagesMembers/user12.jpg",
     "camera": true,
     "speaking": false,
     "microphone": true
