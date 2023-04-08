@@ -34,7 +34,7 @@ export const getSingleByIdWithRandomImg = async (userId: string) => {
     return null;
 }
 
-const randomIndex = Math.floor(Math.random() * 5);
+const randomIndex = Math.floor(Math.random() * 15);
 
   return {
     ...selectUser,
